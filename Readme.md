@@ -69,7 +69,7 @@ To view your mood trends, simply choose to visualize when prompted — a matplot
 
 ## 📁 Files
 
-* `mood_journal.py` – Main application logic
+* `app.py` – Main application logic
 * `mood_journal.csv` – Mood journal data (auto-created)
 * `requirements.txt` – Python dependencies
 * `README.md` – You're reading it!
