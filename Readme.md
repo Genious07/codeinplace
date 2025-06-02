@@ -1,8 +1,3 @@
-Sure! Here's a copyable `README.md` for your **Daily Mood Journal** project:
-
----
-
-````markdown
 # 📔 Daily Mood Journal
 
 **Daily Mood Journal** is a simple command-line tool that helps you track your daily mood, activities, and thoughts — and visualize how your mood changes over time. It's a great way to build emotional awareness and track patterns in your daily life.
